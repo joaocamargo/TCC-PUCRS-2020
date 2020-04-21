@@ -1,0 +1,514 @@
+"","weekDay","type","count"
+"1","Sun","A\xc3\xa7\xc3\xa3o Civil P\xc3\xbablica",2
+"2","Sun","A\xc3\xa7\xc3\xa3o Rescis\xc3\xb3ria",9
+"3","Sun","Agravo",50
+"4","Sun","Agravo de Instrumento",3754
+"5","Sun","Agravo em Execu\xc3\xa7\xc3\xa3o",1
+"6","Sun","Agravo Interno",2
+"7","Sun","Agravo Regimental",4
+"8","Sun","Apela\xc3\xa7\xc3\xa3o C\xc3\xadvel",2576
+"9","Sun","Apela\xc3\xa7\xc3\xa3o Crime",26
+"10","Sun","Apela\xc3\xa7\xc3\xa3o e Reexame Necess\xc3\xa1rio",394
+"11","Sun","Cautelar Inominada",1
+"12","Sun","Conflito de Compet\xc3\xaancia",62
+"13","Sun","Correi\xc3\xa7\xc3\xa3o Parcial",8
+"14","Sun","Embargos de Declara\xc3\xa7\xc3\xa3o",277
+"15","Sun","Embargos Infringentes",2
+"16","Sun","Embargos Infringentes e de Nulidade",2
+"17","Sun","Exce\xc3\xa7\xc3\xa3o de Suspei\xc3\xa7\xc3\xa3o",3
+"18","Sun","Habeas Corpus",49
+"19","Sun","Impugna\xc3\xa7\xc3\xa3o \xc3\xa0 Assist\xc3\xaancia Judici\xc3\xa1ria",1
+"20","Sun","Incidente de Uniformizacao Jurisprudencia",3
+"21","Sun","Mandado de Injun\xc3\xa7\xc3\xa3o",15
+"22","Sun","Mandado de Seguran\xc3\xa7a",29
+"23","Sun","Medida Cautelar",1
+"24","Sun","Peti\xc3\xa7\xc3\xa3o",1
+"25","Sun","Reclama\xc3\xa7\xc3\xa3o",4
+"26","Sun","Recurso C\xc3\xadvel",86
+"27","Sun","Recurso em Sentido Estrito",2
+"28","Sun","Recurso Especial",637
+"29","Sun","Recurso Especial e ou Extraordin\xc3\xa1rio",158
+"30","Sun","Recurso Extraordin\xc3\xa1rio",144
+"31","Sun","Recurso Inominado",1
+"32","Sun","Reexame Necess\xc3\xa1rio",173
+"33","Sun","Revis\xc3\xa3o Criminal",15
+"34","Sun","Uniformiza\xc3\xa7\xc3\xa3o de Jurisprud\xc3\xaancia",1
+"35","Mon","A\xc3\xa7\xc3\xa3o Civil P\xc3\xbablica",1
+"36","Mon","A\xc3\xa7\xc3\xa3o Direta de Inconstitucionalidade",2451
+"37","Mon","A\xc3\xa7\xc3\xa3o Penal",24
+"38","Mon","A\xc3\xa7\xc3\xa3o Rescis\xc3\xb3ria",511
+"39","Mon","Agravo",3475
+"40","Mon","Agravo de Instrumento",182810
+"41","Mon","Agravo em Execu\xc3\xa7\xc3\xa3o",70
+"42","Mon","Agravo em Rec",1
+"43","Mon","Agravo Inominado",1
+"44","Mon","Agravo Interno",66
+"45","Mon","Agravo Regimental",963
+"46","Mon","Apela\xc3\xa7\xc3\xa3o C\xc3\xadvel",81312
+"47","Mon","Apela\xc3\xa7\xc3\xa3o Crime",1875
+"48","Mon","Apela\xc3\xa7\xc3\xa3o e Reexame Necess\xc3\xa1rio",8148
+"49","Mon","Apela\xc3\xa7\xc3\xa3o Rec",1
+"50","Mon","Carta Testemunh\xc3\xa1vel",14
+"51","Mon","Cautelar Inominada",57
+"52","Mon","Conflito de Compet\xc3\xaancia",3611
+"53","Mon","Conflito de Jurisdi\xc3\xa7\xc3\xa3o",66
+"54","Mon","Correi\xc3\xa7\xc3\xa3o Parcial",753
+"55","Mon","Crime Responsabilidade Funcion\xc3\xa1rio Publico",1
+"56","Mon","Crimes contra a honra",6
+"57","Mon","Cumprimento de Senten\xc3\xa7a",4
+"58","Mon","Declarat\xc3\xb3ria de Constitucionalidade",2
+"59","Mon","Desaforamento",2
+"60","Mon","Embargos de Declara\xc3\xa7\xc3\xa3o",17749
+"61","Mon","Embargos Infringentes",93
+"62","Mon","Embargos Infringentes e de Nulidade",17
+"63","Mon","Exce\xc3\xa7\xc3\xa3o da Verdade",7
+"64","Mon","Exce\xc3\xa7\xc3\xa3o de Impedimento",3
+"65","Mon","Exce\xc3\xa7\xc3\xa3o de Incompet\xc3\xaancia",2
+"66","Mon","Exce\xc3\xa7\xc3\xa3o de Suspei\xc3\xa7\xc3\xa3o",101
+"67","Mon","Exce\xc3\xa7\xc3\xa3o Suspei\xc3\xa7\xc3\xa3o Impedimento",1
+"68","Mon","Habeas Corpus",4518
+"69","Mon","Habeas Data",1
+"70","Mon","Habilita\xc3\xa7\xc3\xa3o",1
+"71","Mon","Impugna\xc3\xa7\xc3\xa3o \xc3\xa0 Assist\xc3\xaancia Judici\xc3\xa1ria",2
+"72","Mon","Impugna\xc3\xa7\xc3\xa3o ao Valor da Causa",3
+"73","Mon","Incidente de Assun\xc3\xa7\xc3\xa3o de Compet\xc3\xaancia",1
+"74","Mon","Incidente de Falsidade",1
+"75","Mon","Incidente de Inconstitucionalidade",164
+"76","Mon","Incidente de Resolucao de Demandas Repetitiva",12
+"77","Mon","Incidente de Uniformizacao Jurisprudencia",18
+"78","Mon","Inqu\xc3\xa9rito Policial",13
+"79","Mon","Interven\xc3\xa7\xc3\xa3o em Munic\xc3\xadpio",9
+"80","Mon","Interven\xc3\xa7\xc3\xa3o Federal no Estado",22
+"81","Mon","Interven\xc3\xa7\xc3\xa3o no Estado",24
+"82","Mon","Investiga\xc3\xa7\xc3\xa3o Contra Magistrado",11
+"83","Mon","Mandado de Injun\xc3\xa7\xc3\xa3o",847
+"84","Mon","Mandado de Seguran\xc3\xa7a",3113
+"85","Mon","Mandado de Seguran\xc3\xa7a Coletivo",6
+"86","Mon","Mandado de Seguran\xc3\xa7a Crime",266
+"87","Mon","Medida Cautelar",46
+"88","Mon","Medida Cautelar Inominada",49
+"89","Mon","Not\xc3\xadcia Crime",3
+"90","Mon","Outros Crimes",8
+"91","Mon","Outros Feitos",33
+"92","Mon","Outros Incidentes",1
+"93","Mon","Pedido de Assist\xc3\xaancia Judici\xc3\xa1ria Gratuita",3
+"94","Mon","Pedido Suspens\xc3\xa3o Liminar",1
+"95","Mon","Peti\xc3\xa7\xc3\xa3o",100
+"96","Mon","Prefeito",6
+"97","Mon","Procedimento Investigat\xc3\xb3rio do MP",2
+"98","Mon","Processo Crime",24
+"99","Mon","Queixa",12
+"100","Mon","Reclama\xc3\xa7\xc3\xa3o",107
+"101","Mon","Reclama\xc3\xa7\xc3\xa3o Regimental",2
+"102","Mon","Recurso C\xc3\xadvel",8971
+"103","Mon","Recurso Crime",30022
+"104","Mon","Recurso de Of\xc3\xadcio",5
+"105","Mon","Recurso em Sentido Estrito",178
+"106","Mon","Recurso Especial",15994
+"107","Mon","Recurso Especial e ou Extraordin\xc3\xa1rio",4576
+"108","Mon","Recurso Extraordin\xc3\xa1rio",4801
+"109","Mon","Reexame Necess\xc3\xa1rio",4518
+"110","Mon","Representa\xc3\xa7\xc3\xa3o",449
+"111","Mon","Representa\xc3\xa7\xc3\xa3o Criminal",47
+"112","Mon","Restaura\xc3\xa7\xc3\xa3o de Autos",19
+"113","Mon","Revis\xc3\xa3o Criminal",242
+"114","Mon","Suspen\xc3\xa7\xc3\xa3o de Liminar ou Antecipa\xc3\xa7\xc3\xa3o de Tutela",16
+"115","Mon","Suspens\xc3\xa3o de Liminar ou Antecipa\xc3\xa7\xc3\xa3o de Tutela",3
+"116","Mon","Termo Circunstanciado",12
+"117","Mon","Tutela Cautelar Antecedente",1
+"118","Mon","Uniformiza\xc3\xa7\xc3\xa3o de Jurisprud\xc3\xaancia",10
+"119","Tue","A\xc3\xa7\xc3\xa3o Civil P\xc3\xbablica",243
+"120","Tue","A\xc3\xa7\xc3\xa3o Direta de Inconstitucionalidade",56
+"121","Tue","A\xc3\xa7\xc3\xa3o Penal",8
+"122","Tue","A\xc3\xa7\xc3\xa3o Rescis\xc3\xb3ria",1311
+"123","Tue","Agravo",51643
+"124","Tue","Agravo de Instrumento",281853
+"125","Tue","Agravo de Instrumento em Recurso Extraordinario",1
+"126","Tue","Agravo de Peti\xc3\xa7\xc3\xa3o",1
+"127","Tue","Agravo em Execu\xc3\xa7\xc3\xa3o",122
+"128","Tue","Agravo Embargos Infringentes",6
+"129","Tue","Agravo Inominado",50
+"130","Tue","Agravo Interno",567
+"131","Tue","Agravo Lei",2
+"132","Tue","Agravo Regimental",2132
+"133","Tue","Apela\xc3\xa7\xc3\xa3o C\xc3\xadvel",290830
+"134","Tue","Apela\xc3\xa7\xc3\xa3o Crime",13399
+"135","Tue","Apela\xc3\xa7\xc3\xa3o e Reexame Necess\xc3\xa1rio",35792
+"136","Tue","Apela\xc3\xa7\xc3\xa3o Recurso de Of\xc3\xadcio",1
+"137","Tue","Carta Testemunh\xc3\xa1vel",10
+"138","Tue","Cautelar Inominada",84
+"139","Tue","Conflito de Compet\xc3\xaancia",4019
+"140","Tue","Conflito de Jurisdi\xc3\xa7\xc3\xa3o",126
+"141","Tue","Correi\xc3\xa7\xc3\xa3o Parcial",362
+"142","Tue","Crimes contra a honra",3
+"143","Tue","Cumprimento de Senten\xc3\xa7a",1
+"144","Tue","Desaforamento",10
+"145","Tue","Embargos \xc3\xa0 Execu\xc3\xa7\xc3\xa3o",3
+"146","Tue","Embargos de Declara\xc3\xa7\xc3\xa3o",146718
+"147","Tue","Embargos Infringentes",738
+"148","Tue","Embargos Infringentes e de Nulidade",22
+"149","Tue","Exce\xc3\xa7\xc3\xa3o de Impedimento",3
+"150","Tue","Exce\xc3\xa7\xc3\xa3o de Incompet\xc3\xaancia",3
+"151","Tue","Exce\xc3\xa7\xc3\xa3o de Suspei\xc3\xa7\xc3\xa3o",108
+"152","Tue","Exce\xc3\xa7\xc3\xa3o Suspei\xc3\xa7\xc3\xa3o Impedimento",3
+"153","Tue","Habeas Corpus",5704
+"154","Tue","Habeas Data",2
+"155","Tue","Impugna\xc3\xa7\xc3\xa3o",2
+"156","Tue","Impugna\xc3\xa7\xc3\xa3o \xc3\xa0 Assist\xc3\xaancia Judici\xc3\xa1ria",4
+"157","Tue","Impugna\xc3\xa7\xc3\xa3o ao Cumprimento de Senten\xc3\xa7a",1
+"158","Tue","Impugna\xc3\xa7\xc3\xa3o ao Valor da Causa",12
+"159","Tue","Incidente de Falsidade",1
+"160","Tue","Incidente de Inconstitucionalidade",5
+"161","Tue","Incidente de Resolucao de Demandas Repetitiva",4
+"162","Tue","Incidente de Uniformizacao Jurisprudencia",123
+"163","Tue","Inqu\xc3\xa9rito Policial",7
+"164","Tue","Interven\xc3\xa7\xc3\xa3o em Munic\xc3\xadpio",2
+"165","Tue","Interven\xc3\xa7\xc3\xa3o Federal no Estado",3
+"166","Tue","Investiga\xc3\xa7\xc3\xa3o Contra Magistrado",4
+"167","Tue","Mandado de Injun\xc3\xa7\xc3\xa3o",252
+"168","Tue","Mandado de Seguran\xc3\xa7a",2716
+"169","Tue","Mandado de Seguran\xc3\xa7a Coletivo",1
+"170","Tue","Mandado de Seguran\xc3\xa7a Crime",9
+"171","Tue","Medida Cautelar",61
+"172","Tue","Medida Cautelar Inominada",87
+"173","Tue","Medidas Protetivas de Urgencia",1
+"174","Tue","Outros C\xc3\xadveis",6
+"175","Tue","Outros Feitos",24
+"176","Tue","Outros Incidentes",6
+"177","Tue","Pedido de Arquivamento",2
+"178","Tue","Pedido de Assist\xc3\xaancia Judici\xc3\xa1ria Gratuita",2
+"179","Tue","Peti\xc3\xa7\xc3\xa3o",92
+"180","Tue","Prefeito",163
+"181","Tue","Processo Crime",12
+"182","Tue","Reclama\xc3\xa7\xc3\xa3o",98
+"183","Tue","Reclama\xc3\xa7\xc3\xa3o Regimental",2
+"184","Tue","Recurso C\xc3\xadvel",98026
+"185","Tue","Recurso Crime",548
+"186","Tue","Recurso de Of\xc3\xadcio",27
+"187","Tue","Recurso em Sentido Estrito",1524
+"188","Tue","Recurso Especial",7939
+"189","Tue","Recurso Especial e ou Extraordin\xc3\xa1rio",1587
+"190","Tue","Recurso Extraordin\xc3\xa1rio",721
+"191","Tue","Recurso Inominado",1
+"192","Tue","Recurso Oficioso em Sentido Estrito",1
+"193","Tue","Reexame Necess\xc3\xa1rio",13635
+"194","Tue","Representa\xc3\xa7\xc3\xa3o Criminal",37
+"195","Tue","Restaura\xc3\xa7\xc3\xa3o de Autos",31
+"196","Tue","Revis\xc3\xa3o Criminal",170
+"197","Tue","Suspen\xc3\xa7\xc3\xa3o de Liminar ou Antecipa\xc3\xa7\xc3\xa3o de Tutela",11
+"198","Tue","Suspens\xc3\xa3o de Execu\xc3\xa7\xc3\xa3o de Senten\xc3\xa7a",1
+"199","Tue","Suspens\xc3\xa3o de Liminar ou Antecipa\xc3\xa7\xc3\xa3o de Tutela",2
+"200","Tue","Termo Circunstanciado",7
+"201","Tue","Tutela Antecipada Antecedente",2
+"202","Tue","Tutela Cautelar Antecedente",1
+"203","Tue","Tutela Provisoria",1
+"204","Tue","Uniformiza\xc3\xa7\xc3\xa3o de Jurisprud\xc3\xaancia",2
+"205","Wed","A\xc3\xa7\xc3\xa3o Civil Improbidade Administrativa",1
+"206","Wed","A\xc3\xa7\xc3\xa3o Civil P\xc3\xbablica",3
+"207","Wed","A\xc3\xa7\xc3\xa3o Direta de Inconstitucionalidade",27
+"208","Wed","A\xc3\xa7\xc3\xa3o Penal",4
+"209","Wed","A\xc3\xa7\xc3\xa3o Rescis\xc3\xb3ria",1136
+"210","Wed","Agravo",163104
+"211","Wed","Agravo de Instrumento",386104
+"212","Wed","Agravo de Peti\xc3\xa7\xc3\xa3o",5
+"213","Wed","Agravo em Execu\xc3\xa7\xc3\xa3o",3011
+"214","Wed","Agravo Embargos Infringentes",4
+"215","Wed","Agravo Inominado",43
+"216","Wed","Agravo Interno",2532
+"217","Wed","Agravo Lei",12
+"218","Wed","Agravo Regimental",9084
+"219","Wed","Apela\xc3\xa7\xc3\xa3o C\xc3\xadvel",592958
+"220","Wed","Apela\xc3\xa7\xc3\xa3o Crime",113141
+"221","Wed","Apela\xc3\xa7\xc3\xa3o e Reexame Necess\xc3\xa1rio",62880
+"222","Wed","Apela\xc3\xa7\xc3\xa3o Rec",9
+"223","Wed","Apela\xc3\xa7\xc3\xa3o Recurso de Of\xc3\xadcio",9
+"224","Wed","Arresto",1
+"225","Wed","Carta Testemunh\xc3\xa1vel",98
+"226","Wed","Cautelar Incidental",1
+"227","Wed","Cautelar Inominada",163
+"228","Wed","Conflito de Compet\xc3\xaancia",9251
+"229","Wed","Conflito de Jurisdi\xc3\xa7\xc3\xa3o",1563
+"230","Wed","Correi\xc3\xa7\xc3\xa3o Parcial",2070
+"231","Wed","Crimes contra a honra",2
+"232","Wed","Declara\xc3\xa7\xc3\xa3o de Inconstitucionalidade",1
+"233","Wed","Desaforamento",57
+"234","Wed","Embargos \xc3\xa0 Execu\xc3\xa7\xc3\xa3o",6
+"235","Wed","Embargos de Declara\xc3\xa7\xc3\xa3o",312388
+"236","Wed","Embargos de Nulidade",1
+"237","Wed","Embargos Infringentes",186
+"238","Wed","Embargos Infringentes e de Nulidade",47
+"239","Wed","Exce\xc3\xa7\xc3\xa3o da Verdade",2
+"240","Wed","Exce\xc3\xa7\xc3\xa3o de Impedimento",5
+"241","Wed","Exce\xc3\xa7\xc3\xa3o de Incompet\xc3\xaancia",8
+"242","Wed","Exce\xc3\xa7\xc3\xa3o de Suspei\xc3\xa7\xc3\xa3o",417
+"243","Wed","Exce\xc3\xa7\xc3\xa3o Suspei\xc3\xa7\xc3\xa3o Impedimento",5
+"244","Wed","Habeas Corpus",53348
+"245","Wed","Habeas Data",9
+"246","Wed","Habilita\xc3\xa7\xc3\xa3o",4
+"247","Wed","Impugna\xc3\xa7\xc3\xa3o \xc3\xa0 Assist\xc3\xaancia Judici\xc3\xa1ria",17
+"248","Wed","Impugna\xc3\xa7\xc3\xa3o ao Cumprimento de Senten\xc3\xa7a",1
+"249","Wed","Impugna\xc3\xa7\xc3\xa3o ao Valor da Causa",25
+"250","Wed","Incidente de Falsidade",3
+"251","Wed","Incidente de Inconstitucionalidade",1
+"252","Wed","Incidente de Resolucao de Demandas Repetitiva",5
+"253","Wed","Incidente de Uniformizacao Jurisprudencia",70
+"254","Wed","Inqu\xc3\xa9rito Policial",3
+"255","Wed","Interven\xc3\xa7\xc3\xa3o em Munic\xc3\xadpio",3
+"256","Wed","Interven\xc3\xa7\xc3\xa3o Federal no Estado",1
+"257","Wed","Investiga\xc3\xa7\xc3\xa3o Contra Magistrado",3
+"258","Wed","Mandado de Injun\xc3\xa7\xc3\xa3o",190
+"259","Wed","Mandado de Seguran\xc3\xa7a",4718
+"260","Wed","Mandado de Seguran\xc3\xa7a Crime",20
+"261","Wed","Medida Cautelar",146
+"262","Wed","Medida Cautelar Inominada",179
+"263","Wed","Medidas Protetivas de Urgencia",2
+"264","Wed","Not\xc3\xadcia Crime",1
+"265","Wed","Outras Medidas Provisionais",1
+"266","Wed","Outros C\xc3\xadveis",15
+"267","Wed","Outros Feitos",76
+"268","Wed","Outros Incidentes",12
+"269","Wed","Pedido de Assist\xc3\xaancia Judici\xc3\xa1ria Gratuita",3
+"270","Wed","Pedido Suspens\xc3\xa3o Liminar",1
+"271","Wed","Peti\xc3\xa7\xc3\xa3o",161
+"272","Wed","Prefeito",7
+"273","Wed","Procedimento Investigat\xc3\xb3rio do MP",1
+"274","Wed","Processo Crime",7
+"275","Wed","Queixa",2
+"276","Wed","Reabilita\xc3\xa7\xc3\xa3o",7
+"277","Wed","Reclama\xc3\xa7\xc3\xa3o",106
+"278","Wed","Reclama\xc3\xa7\xc3\xa3o Regimental",2
+"279","Wed","Recurso C\xc3\xadvel",144290
+"280","Wed","Recurso Crime",570
+"281","Wed","Recurso de Of\xc3\xadcio",227
+"282","Wed","Recurso em Sentido Estrito",12901
+"283","Wed","Recurso Especial",11308
+"284","Wed","Recurso Especial e ou Extraordin\xc3\xa1rio",2739
+"285","Wed","Recurso Extraordin\xc3\xa1rio",7920
+"286","Wed","Recurso Oficioso em Sentido Estrito",15
+"287","Wed","Reexame Necess\xc3\xa1rio",15647
+"288","Wed","Representa\xc3\xa7\xc3\xa3o Criminal",31
+"289","Wed","Restaura\xc3\xa7\xc3\xa3o de Autos",63
+"290","Wed","Revis\xc3\xa3o Criminal",153
+"291","Wed","Suspen\xc3\xa7\xc3\xa3o de Liminar ou Antecipa\xc3\xa7\xc3\xa3o de Tutela",19
+"292","Wed","Suspens\xc3\xa3o de Execu\xc3\xa7\xc3\xa3o de Senten\xc3\xa7a",1
+"293","Wed","Suspens\xc3\xa3o de Liminar ou Antecipa\xc3\xa7\xc3\xa3o de Tutela",5
+"294","Wed","Termo Circunstanciado",9
+"295","Wed","Tutela Antecipada Antecedente",1
+"296","Wed","Tutela Cautelar Antecedente",2
+"297","Wed","Tutela Provisoria",4
+"298","Wed","Uniformiza\xc3\xa7\xc3\xa3o de Jurisprud\xc3\xaancia",6
+"299","Thu","A\xc3\xa7\xc3\xa3o Civil Improbidade Administrativa",1
+"300","Thu","A\xc3\xa7\xc3\xa3o Civil P\xc3\xbablica",12
+"301","Thu","A\xc3\xa7\xc3\xa3o Direta de Inconstitucionalidade",29
+"302","Thu","A\xc3\xa7\xc3\xa3o Penal",322
+"303","Thu","A\xc3\xa7\xc3\xa3o Rescis\xc3\xb3ria",1022
+"304","Thu","Agravo",197859
+"305","Thu","Agravo de Instrumento",335245
+"306","Thu","Agravo de Peti\xc3\xa7\xc3\xa3o",4
+"307","Thu","Agravo em Execu\xc3\xa7\xc3\xa3o",3993
+"308","Thu","Agravo Embargos Infringentes",3
+"309","Thu","Agravo Inominado",87
+"310","Thu","Agravo Interno",2043
+"311","Thu","Agravo Lei",5
+"312","Thu","Agravo Regimental",12206
+"313","Thu","Apela\xc3\xa7\xc3\xa3o C\xc3\xadvel",578755
+"314","Thu","Apela\xc3\xa7\xc3\xa3o Crime",143736
+"315","Thu","Apela\xc3\xa7\xc3\xa3o e Reexame Necess\xc3\xa1rio",32641
+"316","Thu","Apela\xc3\xa7\xc3\xa3o Rec",11
+"317","Thu","Apela\xc3\xa7\xc3\xa3o Recurso de Of\xc3\xadcio",4
+"318","Thu","Arresto Hipoteca Legal",1
+"319","Thu","Carta Testemunh\xc3\xa1vel",115
+"320","Thu","Cautelar Incidental",1
+"321","Thu","Cautelar Inominada",152
+"322","Thu","Conflito de Compet\xc3\xaancia",8532
+"323","Thu","Conflito de Jurisdi\xc3\xa7\xc3\xa3o",1939
+"324","Thu","Correi\xc3\xa7\xc3\xa3o Parcial",2761
+"325","Thu","Crime Responsabilidade Funcion\xc3\xa1rio Publico",1
+"326","Thu","Crimes Ambientais",7
+"327","Thu","Crimes contra a honra",15
+"328","Thu","Cumprimento de Senten\xc3\xa7a",7
+"329","Thu","Desaforamento",84
+"330","Thu","Embargos",1
+"331","Thu","Embargos \xc3\xa0 Execu\xc3\xa7\xc3\xa3o",10
+"332","Thu","Embargos de Declara\xc3\xa7\xc3\xa3o",312724
+"333","Thu","Embargos de Nulidade",1
+"334","Thu","Embargos de Terceiros",1
+"335","Thu","Embargos Infringentes",93
+"336","Thu","Embargos Infringentes e de Nulidade",317
+"337","Thu","Exce\xc3\xa7\xc3\xa3o da Verdade",9
+"338","Thu","Exce\xc3\xa7\xc3\xa3o de Impedimento",9
+"339","Thu","Exce\xc3\xa7\xc3\xa3o de Incompet\xc3\xaancia",9
+"340","Thu","Exce\xc3\xa7\xc3\xa3o de Suspei\xc3\xa7\xc3\xa3o",460
+"341","Thu","Exce\xc3\xa7\xc3\xa3o Suspei\xc3\xa7\xc3\xa3o Impedimento",6
+"342","Thu","Habeas Corpus",72428
+"343","Thu","Habeas Data",5
+"344","Thu","Habilita\xc3\xa7\xc3\xa3o",4
+"345","Thu","Impugna\xc3\xa7\xc3\xa3o",1
+"346","Thu","Impugna\xc3\xa7\xc3\xa3o \xc3\xa0 Assist\xc3\xaancia Judici\xc3\xa1ria",21
+"347","Thu","Impugna\xc3\xa7\xc3\xa3o ao Valor da Causa",24
+"348","Thu","Incidente de Assun\xc3\xa7\xc3\xa3o de Compet\xc3\xaancia",1
+"349","Thu","Incidente de Falsidade",2
+"350","Thu","Incidente de Inconstitucionalidade",9
+"351","Thu","Incidente de Resolucao de Demandas Repetitiva",3
+"352","Thu","Incidente de Uniformizacao Jurisprudencia",8
+"353","Thu","Inqu\xc3\xa9rito Policial",48
+"354","Thu","Interpela\xc3\xa7\xc3\xa3o Judicial",1
+"355","Thu","Interven\xc3\xa7\xc3\xa3o em Munic\xc3\xadpio",2
+"356","Thu","Interven\xc3\xa7\xc3\xa3o Federal no Estado",2
+"357","Thu","Investiga\xc3\xa7\xc3\xa3o Contra Magistrado",1
+"358","Thu","Liquida\xc3\xa7\xc3\xa3o Provis\xc3\xb3ria por Artigos",2
+"359","Thu","Mandado de Injun\xc3\xa7\xc3\xa3o",231
+"360","Thu","Mandado de Seguran\xc3\xa7a",5484
+"361","Thu","Mandado de Seguran\xc3\xa7a Coletivo",2
+"362","Thu","Mandado de Seguran\xc3\xa7a Crime",2
+"363","Thu","Medida Cautelar",235
+"364","Thu","Medida Cautelar Inominada",161
+"365","Thu","Not\xc3\xadcia Crime",5
+"366","Thu","Oposi\xc3\xa7\xc3\xa3o",1
+"367","Thu","Outros C\xc3\xadveis",20
+"368","Thu","Outros Feitos",128
+"369","Thu","Outros Incidentes",10
+"370","Thu","Pedido de Assist\xc3\xaancia Judici\xc3\xa1ria Gratuita",5
+"371","Thu","Peti\xc3\xa7\xc3\xa3o",206
+"372","Thu","Prefeito",59
+"373","Thu","Procedimento Investigat\xc3\xb3rio do MP",5
+"374","Thu","Processo Crime",737
+"375","Thu","Processo de Execu\xc3\xa7\xc3\xa3o",3
+"376","Thu","Queixa",52
+"377","Thu","Reabilita\xc3\xa7\xc3\xa3o",6
+"378","Thu","Reclama\xc3\xa7\xc3\xa3o",88
+"379","Thu","Reclama\xc3\xa7\xc3\xa3o Regimental",3
+"380","Thu","Recurso C\xc3\xadvel",179579
+"381","Thu","Recurso Crime",193
+"382","Thu","Recurso de Agravo",1
+"383","Thu","Recurso de Of\xc3\xadcio",374
+"384","Thu","Recurso em Sentido Estrito",16772
+"385","Thu","Recurso Especial",11198
+"386","Thu","Recurso Especial e ou Extraordin\xc3\xa1rio",3953
+"387","Thu","Recurso Extraordin\xc3\xa1rio",5158
+"388","Thu","Recurso Oficioso em Sentido Estrito",30
+"389","Thu","Reexame Necess\xc3\xa1rio",9878
+"390","Thu","Representa\xc3\xa7\xc3\xa3o",1
+"391","Thu","Representa\xc3\xa7\xc3\xa3o Criminal",72
+"392","Thu","Restaura\xc3\xa7\xc3\xa3o de Autos",49
+"393","Thu","Revis\xc3\xa3o Criminal",217
+"394","Thu","Suspen\xc3\xa7\xc3\xa3o de Liminar ou Antecipa\xc3\xa7\xc3\xa3o de Tutela",12
+"395","Thu","Suspens\xc3\xa3o de Liminar ou Antecipa\xc3\xa7\xc3\xa3o de Tutela",1
+"396","Thu","Termo Circunstanciado",71
+"397","Thu","Tutela Antecipada Antecedente",3
+"398","Thu","Tutela Provisoria",3
+"399","Thu","Uniformiza\xc3\xa7\xc3\xa3o de Jurisprud\xc3\xaancia",7
+"400","Fri","A\xc3\xa7\xc3\xa3o Civil Improbidade Administrativa",2
+"401","Fri","A\xc3\xa7\xc3\xa3o Civil P\xc3\xbablica",1
+"402","Fri","A\xc3\xa7\xc3\xa3o Direta de Inconstitucionalidade",21
+"403","Fri","A\xc3\xa7\xc3\xa3o Penal",5
+"404","Fri","A\xc3\xa7\xc3\xa3o Rescis\xc3\xb3ria",3245
+"405","Fri","Agravo",3841
+"406","Fri","Agravo de Instrumento",174758
+"407","Fri","Agravo em Execu\xc3\xa7\xc3\xa3o",46
+"408","Fri","Agravo em Rec",1
+"409","Fri","Agravo Embargos Infringentes",283
+"410","Fri","Agravo Inominado",4
+"411","Fri","Agravo Interno",115
+"412","Fri","Agravo Regimental",2406
+"413","Fri","Apela\xc3\xa7\xc3\xa3o C\xc3\xadvel",71095
+"414","Fri","Apela\xc3\xa7\xc3\xa3o Crime",2646
+"415","Fri","Apela\xc3\xa7\xc3\xa3o e Reexame Necess\xc3\xa1rio",6767
+"416","Fri","Carta Testemunh\xc3\xa1vel",6
+"417","Fri","Cautelar Inominada",72
+"418","Fri","Conflito de Compet\xc3\xaancia",3181
+"419","Fri","Conflito de Jurisdi\xc3\xa7\xc3\xa3o",98
+"420","Fri","Correi\xc3\xa7\xc3\xa3o Parcial",269
+"421","Fri","Crimes contra a honra",2
+"422","Fri","Cumprimento de Senten\xc3\xa7a",4
+"423","Fri","Desaforamento",3
+"424","Fri","Embargos de Declara\xc3\xa7\xc3\xa3o",23168
+"425","Fri","Embargos de Nulidade",4
+"426","Fri","Embargos de Terceiros",1
+"427","Fri","Embargos Infringentes",22443
+"428","Fri","Embargos Infringentes e de Nulidade",11782
+"429","Fri","Exce\xc3\xa7\xc3\xa3o de Impedimento",2
+"430","Fri","Exce\xc3\xa7\xc3\xa3o de Incompet\xc3\xaancia",2
+"431","Fri","Exce\xc3\xa7\xc3\xa3o de Suspei\xc3\xa7\xc3\xa3o",77
+"432","Fri","Habeas Corpus",3531
+"433","Fri","Habeas Data",23
+"434","Fri","Habilita\xc3\xa7\xc3\xa3o",1
+"435","Fri","Impugna\xc3\xa7\xc3\xa3o \xc3\xa0 Assist\xc3\xaancia Judici\xc3\xa1ria",51
+"436","Fri","Impugna\xc3\xa7\xc3\xa3o ao Cumprimento de Senten\xc3\xa7a",1
+"437","Fri","Impugna\xc3\xa7\xc3\xa3o ao Valor da Causa",134
+"438","Fri","Incidente de Assun\xc3\xa7\xc3\xa3o de Compet\xc3\xaancia",1
+"439","Fri","Incidente de Falsidade",2
+"440","Fri","Incidente de Inconstitucionalidade",9
+"441","Fri","Incidente de Preven\xc3\xa7\xc3\xa3o ou Composi\xc3\xa7\xc3\xa3o de Diverg\xc3\xaancia",1
+"442","Fri","Incidente de Resolucao de Demandas Repetitiva",17
+"443","Fri","Incidente de Uniformizacao Jurisprudencia",19
+"444","Fri","Inqu\xc3\xa9rito Policial",5
+"445","Fri","Interpela\xc3\xa7\xc3\xa3o",1
+"446","Fri","Interven\xc3\xa7\xc3\xa3o no Estado",2
+"447","Fri","Investiga\xc3\xa7\xc3\xa3o Contra Magistrado",4
+"448","Fri","Mandado de Injun\xc3\xa7\xc3\xa3o",252
+"449","Fri","Mandado de Seguran\xc3\xa7a",6021
+"450","Fri","Mandado de Seguran\xc3\xa7a Coletivo",7
+"451","Fri","Mandado de Seguran\xc3\xa7a Crime",13
+"452","Fri","Medida Cautelar",47
+"453","Fri","Medida Cautelar Inominada",66
+"454","Fri","Not\xc3\xadcia Crime",1
+"455","Fri","Notifica\xc3\xa7\xc3\xa3o Para Explica\xc3\xa7\xc3\xb5es",1
+"456","Fri","Outros Feitos",26
+"457","Fri","Outros Incidentes",5
+"458","Fri","Pedido de Assist\xc3\xaancia Judici\xc3\xa1ria Gratuita",1
+"459","Fri","Peti\xc3\xa7\xc3\xa3o",94
+"460","Fri","Prefeito",10
+"461","Fri","Procedimento Investigat\xc3\xb3rio do MP",1
+"462","Fri","Processo Crime",4
+"463","Fri","Reclama\xc3\xa7\xc3\xa3o",71
+"464","Fri","Reclama\xc3\xa7\xc3\xa3o Regimental",2
+"465","Fri","Recurso C\xc3\xadvel",39188
+"466","Fri","Recurso Crime",197
+"467","Fri","Recurso de Of\xc3\xadcio",14
+"468","Fri","Recurso em Sentido Estrito",256
+"469","Fri","Recurso Especial",11786
+"470","Fri","Recurso Especial e ou Extraordin\xc3\xa1rio",2330
+"471","Fri","Recurso Extraordin\xc3\xa1rio",4386
+"472","Fri","Recurso Oficioso em Sentido Estrito",1
+"473","Fri","Reexame Necess\xc3\xa1rio",4012
+"474","Fri","Representa\xc3\xa7\xc3\xa3o",2
+"475","Fri","Representa\xc3\xa7\xc3\xa3o Criminal",31
+"476","Fri","Restaura\xc3\xa7\xc3\xa3o de Autos",19
+"477","Fri","Revis\xc3\xa3o Criminal",4947
+"478","Fri","Suspen\xc3\xa7\xc3\xa3o de Liminar ou Antecipa\xc3\xa7\xc3\xa3o de Tutela",22
+"479","Fri","Suspens\xc3\xa3o de Execu\xc3\xa7\xc3\xa3o de Senten\xc3\xa7a",1
+"480","Fri","Suspens\xc3\xa3o de Liminar ou Antecipa\xc3\xa7\xc3\xa3o de Tutela",1
+"481","Fri","Termo Circunstanciado",5
+"482","Fri","Tutela Antecipada Antecedente",1
+"483","Fri","Tutela Cautelar Antecedente",2
+"484","Fri","Tutela Provisoria",1
+"485","Fri","Uniformiza\xc3\xa7\xc3\xa3o de Jurisprud\xc3\xaancia",48
+"486","Sat","A\xc3\xa7\xc3\xa3o Rescis\xc3\xb3ria",10
+"487","Sat","Agravo",158
+"488","Sat","Agravo de Instrumento",2936
+"489","Sat","Agravo em Execu\xc3\xa7\xc3\xa3o",1
+"490","Sat","Agravo Interno",2
+"491","Sat","Agravo Regimental",3
+"492","Sat","Apela\xc3\xa7\xc3\xa3o C\xc3\xadvel",2333
+"493","Sat","Apela\xc3\xa7\xc3\xa3o Crime",20
+"494","Sat","Apela\xc3\xa7\xc3\xa3o e Reexame Necess\xc3\xa1rio",322
+"495","Sat","Conflito de Compet\xc3\xaancia",54
+"496","Sat","Conflito de Jurisdi\xc3\xa7\xc3\xa3o",1
+"497","Sat","Correi\xc3\xa7\xc3\xa3o Parcial",9
+"498","Sat","Embargos de Declara\xc3\xa7\xc3\xa3o",258
+"499","Sat","Embargos Infringentes",1
+"500","Sat","Exce\xc3\xa7\xc3\xa3o de Impedimento",1
+"501","Sat","Exce\xc3\xa7\xc3\xa3o de Suspei\xc3\xa7\xc3\xa3o",3
+"502","Sat","Habeas Corpus",70
+"503","Sat","Mandado de Injun\xc3\xa7\xc3\xa3o",2
+"504","Sat","Mandado de Seguran\xc3\xa7a",20
+"505","Sat","Reclama\xc3\xa7\xc3\xa3o",3
+"506","Sat","Recurso C\xc3\xadvel",39
+"507","Sat","Recurso em Sentido Estrito",4
+"508","Sat","Recurso Especial",595
+"509","Sat","Recurso Especial e ou Extraordin\xc3\xa1rio",146
+"510","Sat","Recurso Extraordin\xc3\xa1rio",417
+"511","Sat","Reexame Necess\xc3\xa1rio",119
+"512","Sat","Representa\xc3\xa7\xc3\xa3o Criminal",1
+"513","Sat","Revis\xc3\xa3o Criminal",8
