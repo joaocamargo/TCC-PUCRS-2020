@@ -1,0 +1,514 @@
+,weekDay,type,count
+0,Sun,Ação Civil Pública,2
+1,Sun,Ação Rescisória,9
+2,Sun,Agravo,50
+3,Sun,Agravo de Instrumento,3754
+4,Sun,Agravo em Execução,1
+5,Sun,Agravo Interno,2
+6,Sun,Agravo Regimental,4
+7,Sun,Apelação Cível,2576
+8,Sun,Apelação Crime,26
+9,Sun,Apelação e Reexame Necessário,394
+10,Sun,Cautelar Inominada,1
+11,Sun,Conflito de Competência,62
+12,Sun,Correição Parcial,8
+13,Sun,Embargos de Declaração,277
+14,Sun,Embargos Infringentes,2
+15,Sun,Embargos Infringentes e de Nulidade,2
+16,Sun,Exceção de Suspeição,3
+17,Sun,Habeas Corpus,49
+18,Sun,Impugnação à Assistência Judiciária,1
+19,Sun,Incidente de Uniformizacao Jurisprudencia,3
+20,Sun,Mandado de Injunção,15
+21,Sun,Mandado de Segurança,29
+22,Sun,Medida Cautelar,1
+23,Sun,Petição,1
+24,Sun,Reclamação,4
+25,Sun,Recurso Cível,86
+26,Sun,Recurso em Sentido Estrito,2
+27,Sun,Recurso Especial,637
+28,Sun,Recurso Especial e ou Extraordinário,158
+29,Sun,Recurso Extraordinário,144
+30,Sun,Recurso Inominado,1
+31,Sun,Reexame Necessário,173
+32,Sun,Revisão Criminal,15
+33,Sun,Uniformização de Jurisprudência,1
+34,Mon,Ação Civil Pública,1
+35,Mon,Ação Direta de Inconstitucionalidade,2451
+36,Mon,Ação Penal,24
+37,Mon,Ação Rescisória,511
+38,Mon,Agravo,3475
+39,Mon,Agravo de Instrumento,182810
+40,Mon,Agravo em Execução,70
+41,Mon,Agravo em Rec,1
+42,Mon,Agravo Inominado,1
+43,Mon,Agravo Interno,66
+44,Mon,Agravo Regimental,963
+45,Mon,Apelação Cível,81312
+46,Mon,Apelação Crime,1875
+47,Mon,Apelação e Reexame Necessário,8148
+48,Mon,Apelação Rec,1
+49,Mon,Carta Testemunhável,14
+50,Mon,Cautelar Inominada,57
+51,Mon,Conflito de Competência,3611
+52,Mon,Conflito de Jurisdição,66
+53,Mon,Correição Parcial,753
+54,Mon,Crime Responsabilidade Funcionário Publico,1
+55,Mon,Crimes contra a honra,6
+56,Mon,Cumprimento de Sentença,4
+57,Mon,Declaratória de Constitucionalidade,2
+58,Mon,Desaforamento,2
+59,Mon,Embargos de Declaração,17749
+60,Mon,Embargos Infringentes,93
+61,Mon,Embargos Infringentes e de Nulidade,17
+62,Mon,Exceção da Verdade,7
+63,Mon,Exceção de Impedimento,3
+64,Mon,Exceção de Incompetência,2
+65,Mon,Exceção de Suspeição,101
+66,Mon,Exceção Suspeição Impedimento,1
+67,Mon,Habeas Corpus,4518
+68,Mon,Habeas Data,1
+69,Mon,Habilitação,1
+70,Mon,Impugnação à Assistência Judiciária,2
+71,Mon,Impugnação ao Valor da Causa,3
+72,Mon,Incidente de Assunção de Competência,1
+73,Mon,Incidente de Falsidade,1
+74,Mon,Incidente de Inconstitucionalidade,164
+75,Mon,Incidente de Resolucao de Demandas Repetitiva,12
+76,Mon,Incidente de Uniformizacao Jurisprudencia,18
+77,Mon,Inquérito Policial,13
+78,Mon,Intervenção em Município,9
+79,Mon,Intervenção Federal no Estado,22
+80,Mon,Intervenção no Estado,24
+81,Mon,Investigação Contra Magistrado,11
+82,Mon,Mandado de Injunção,847
+83,Mon,Mandado de Segurança,3113
+84,Mon,Mandado de Segurança Coletivo,6
+85,Mon,Mandado de Segurança Crime,266
+86,Mon,Medida Cautelar,46
+87,Mon,Medida Cautelar Inominada,49
+88,Mon,Notícia Crime,3
+89,Mon,Outros Crimes,8
+90,Mon,Outros Feitos,33
+91,Mon,Outros Incidentes,1
+92,Mon,Pedido de Assistência Judiciária Gratuita,3
+93,Mon,Pedido Suspensão Liminar,1
+94,Mon,Petição,100
+95,Mon,Prefeito,6
+96,Mon,Procedimento Investigatório do MP,2
+97,Mon,Processo Crime,24
+98,Mon,Queixa,12
+99,Mon,Reclamação,107
+100,Mon,Reclamação Regimental,2
+101,Mon,Recurso Cível,8971
+102,Mon,Recurso Crime,30022
+103,Mon,Recurso de Ofício,5
+104,Mon,Recurso em Sentido Estrito,178
+105,Mon,Recurso Especial,15994
+106,Mon,Recurso Especial e ou Extraordinário,4576
+107,Mon,Recurso Extraordinário,4801
+108,Mon,Reexame Necessário,4518
+109,Mon,Representação,449
+110,Mon,Representação Criminal,47
+111,Mon,Restauração de Autos,19
+112,Mon,Revisão Criminal,242
+113,Mon,Suspenção de Liminar ou Antecipação de Tutela,16
+114,Mon,Suspensão de Liminar ou Antecipação de Tutela,3
+115,Mon,Termo Circunstanciado,12
+116,Mon,Tutela Cautelar Antecedente,1
+117,Mon,Uniformização de Jurisprudência,10
+118,Tue,Ação Civil Pública,243
+119,Tue,Ação Direta de Inconstitucionalidade,56
+120,Tue,Ação Penal,8
+121,Tue,Ação Rescisória,1311
+122,Tue,Agravo,51643
+123,Tue,Agravo de Instrumento,281853
+124,Tue,Agravo de Instrumento em Recurso Extraordinario,1
+125,Tue,Agravo de Petição,1
+126,Tue,Agravo em Execução,122
+127,Tue,Agravo Embargos Infringentes,6
+128,Tue,Agravo Inominado,50
+129,Tue,Agravo Interno,567
+130,Tue,Agravo Lei,2
+131,Tue,Agravo Regimental,2132
+132,Tue,Apelação Cível,290830
+133,Tue,Apelação Crime,13399
+134,Tue,Apelação e Reexame Necessário,35792
+135,Tue,Apelação Recurso de Ofício,1
+136,Tue,Carta Testemunhável,10
+137,Tue,Cautelar Inominada,84
+138,Tue,Conflito de Competência,4019
+139,Tue,Conflito de Jurisdição,126
+140,Tue,Correição Parcial,362
+141,Tue,Crimes contra a honra,3
+142,Tue,Cumprimento de Sentença,1
+143,Tue,Desaforamento,10
+144,Tue,Embargos à Execução,3
+145,Tue,Embargos de Declaração,146718
+146,Tue,Embargos Infringentes,738
+147,Tue,Embargos Infringentes e de Nulidade,22
+148,Tue,Exceção de Impedimento,3
+149,Tue,Exceção de Incompetência,3
+150,Tue,Exceção de Suspeição,108
+151,Tue,Exceção Suspeição Impedimento,3
+152,Tue,Habeas Corpus,5704
+153,Tue,Habeas Data,2
+154,Tue,Impugnação,2
+155,Tue,Impugnação à Assistência Judiciária,4
+156,Tue,Impugnação ao Cumprimento de Sentença,1
+157,Tue,Impugnação ao Valor da Causa,12
+158,Tue,Incidente de Falsidade,1
+159,Tue,Incidente de Inconstitucionalidade,5
+160,Tue,Incidente de Resolucao de Demandas Repetitiva,4
+161,Tue,Incidente de Uniformizacao Jurisprudencia,123
+162,Tue,Inquérito Policial,7
+163,Tue,Intervenção em Município,2
+164,Tue,Intervenção Federal no Estado,3
+165,Tue,Investigação Contra Magistrado,4
+166,Tue,Mandado de Injunção,252
+167,Tue,Mandado de Segurança,2716
+168,Tue,Mandado de Segurança Coletivo,1
+169,Tue,Mandado de Segurança Crime,9
+170,Tue,Medida Cautelar,61
+171,Tue,Medida Cautelar Inominada,87
+172,Tue,Medidas Protetivas de Urgencia,1
+173,Tue,Outros Cíveis,6
+174,Tue,Outros Feitos,24
+175,Tue,Outros Incidentes,6
+176,Tue,Pedido de Arquivamento,2
+177,Tue,Pedido de Assistência Judiciária Gratuita,2
+178,Tue,Petição,92
+179,Tue,Prefeito,163
+180,Tue,Processo Crime,12
+181,Tue,Reclamação,98
+182,Tue,Reclamação Regimental,2
+183,Tue,Recurso Cível,98026
+184,Tue,Recurso Crime,548
+185,Tue,Recurso de Ofício,27
+186,Tue,Recurso em Sentido Estrito,1524
+187,Tue,Recurso Especial,7939
+188,Tue,Recurso Especial e ou Extraordinário,1587
+189,Tue,Recurso Extraordinário,721
+190,Tue,Recurso Inominado,1
+191,Tue,Recurso Oficioso em Sentido Estrito,1
+192,Tue,Reexame Necessário,13635
+193,Tue,Representação Criminal,37
+194,Tue,Restauração de Autos,31
+195,Tue,Revisão Criminal,170
+196,Tue,Suspenção de Liminar ou Antecipação de Tutela,11
+197,Tue,Suspensão de Execução de Sentença,1
+198,Tue,Suspensão de Liminar ou Antecipação de Tutela,2
+199,Tue,Termo Circunstanciado,7
+200,Tue,Tutela Antecipada Antecedente,2
+201,Tue,Tutela Cautelar Antecedente,1
+202,Tue,Tutela Provisoria,1
+203,Tue,Uniformização de Jurisprudência,2
+204,Wed,Ação Civil Improbidade Administrativa,1
+205,Wed,Ação Civil Pública,3
+206,Wed,Ação Direta de Inconstitucionalidade,27
+207,Wed,Ação Penal,4
+208,Wed,Ação Rescisória,1136
+209,Wed,Agravo,163104
+210,Wed,Agravo de Instrumento,386104
+211,Wed,Agravo de Petição,5
+212,Wed,Agravo em Execução,3011
+213,Wed,Agravo Embargos Infringentes,4
+214,Wed,Agravo Inominado,43
+215,Wed,Agravo Interno,2532
+216,Wed,Agravo Lei,12
+217,Wed,Agravo Regimental,9084
+218,Wed,Apelação Cível,592958
+219,Wed,Apelação Crime,113141
+220,Wed,Apelação e Reexame Necessário,62880
+221,Wed,Apelação Rec,9
+222,Wed,Apelação Recurso de Ofício,9
+223,Wed,Arresto,1
+224,Wed,Carta Testemunhável,98
+225,Wed,Cautelar Incidental,1
+226,Wed,Cautelar Inominada,163
+227,Wed,Conflito de Competência,9251
+228,Wed,Conflito de Jurisdição,1563
+229,Wed,Correição Parcial,2070
+230,Wed,Crimes contra a honra,2
+231,Wed,Declaração de Inconstitucionalidade,1
+232,Wed,Desaforamento,57
+233,Wed,Embargos à Execução,6
+234,Wed,Embargos de Declaração,312388
+235,Wed,Embargos de Nulidade,1
+236,Wed,Embargos Infringentes,186
+237,Wed,Embargos Infringentes e de Nulidade,47
+238,Wed,Exceção da Verdade,2
+239,Wed,Exceção de Impedimento,5
+240,Wed,Exceção de Incompetência,8
+241,Wed,Exceção de Suspeição,417
+242,Wed,Exceção Suspeição Impedimento,5
+243,Wed,Habeas Corpus,53348
+244,Wed,Habeas Data,9
+245,Wed,Habilitação,4
+246,Wed,Impugnação à Assistência Judiciária,17
+247,Wed,Impugnação ao Cumprimento de Sentença,1
+248,Wed,Impugnação ao Valor da Causa,25
+249,Wed,Incidente de Falsidade,3
+250,Wed,Incidente de Inconstitucionalidade,1
+251,Wed,Incidente de Resolucao de Demandas Repetitiva,5
+252,Wed,Incidente de Uniformizacao Jurisprudencia,70
+253,Wed,Inquérito Policial,3
+254,Wed,Intervenção em Município,3
+255,Wed,Intervenção Federal no Estado,1
+256,Wed,Investigação Contra Magistrado,3
+257,Wed,Mandado de Injunção,190
+258,Wed,Mandado de Segurança,4718
+259,Wed,Mandado de Segurança Crime,20
+260,Wed,Medida Cautelar,146
+261,Wed,Medida Cautelar Inominada,179
+262,Wed,Medidas Protetivas de Urgencia,2
+263,Wed,Notícia Crime,1
+264,Wed,Outras Medidas Provisionais,1
+265,Wed,Outros Cíveis,15
+266,Wed,Outros Feitos,76
+267,Wed,Outros Incidentes,12
+268,Wed,Pedido de Assistência Judiciária Gratuita,3
+269,Wed,Pedido Suspensão Liminar,1
+270,Wed,Petição,161
+271,Wed,Prefeito,7
+272,Wed,Procedimento Investigatório do MP,1
+273,Wed,Processo Crime,7
+274,Wed,Queixa,2
+275,Wed,Reabilitação,7
+276,Wed,Reclamação,106
+277,Wed,Reclamação Regimental,2
+278,Wed,Recurso Cível,144290
+279,Wed,Recurso Crime,570
+280,Wed,Recurso de Ofício,227
+281,Wed,Recurso em Sentido Estrito,12901
+282,Wed,Recurso Especial,11308
+283,Wed,Recurso Especial e ou Extraordinário,2739
+284,Wed,Recurso Extraordinário,7920
+285,Wed,Recurso Oficioso em Sentido Estrito,15
+286,Wed,Reexame Necessário,15647
+287,Wed,Representação Criminal,31
+288,Wed,Restauração de Autos,63
+289,Wed,Revisão Criminal,153
+290,Wed,Suspenção de Liminar ou Antecipação de Tutela,19
+291,Wed,Suspensão de Execução de Sentença,1
+292,Wed,Suspensão de Liminar ou Antecipação de Tutela,5
+293,Wed,Termo Circunstanciado,9
+294,Wed,Tutela Antecipada Antecedente,1
+295,Wed,Tutela Cautelar Antecedente,2
+296,Wed,Tutela Provisoria,4
+297,Wed,Uniformização de Jurisprudência,6
+298,Thu,Ação Civil Improbidade Administrativa,1
+299,Thu,Ação Civil Pública,12
+300,Thu,Ação Direta de Inconstitucionalidade,29
+301,Thu,Ação Penal,322
+302,Thu,Ação Rescisória,1022
+303,Thu,Agravo,197859
+304,Thu,Agravo de Instrumento,335245
+305,Thu,Agravo de Petição,4
+306,Thu,Agravo em Execução,3993
+307,Thu,Agravo Embargos Infringentes,3
+308,Thu,Agravo Inominado,87
+309,Thu,Agravo Interno,2043
+310,Thu,Agravo Lei,5
+311,Thu,Agravo Regimental,12206
+312,Thu,Apelação Cível,578755
+313,Thu,Apelação Crime,143736
+314,Thu,Apelação e Reexame Necessário,32641
+315,Thu,Apelação Rec,11
+316,Thu,Apelação Recurso de Ofício,4
+317,Thu,Arresto Hipoteca Legal,1
+318,Thu,Carta Testemunhável,115
+319,Thu,Cautelar Incidental,1
+320,Thu,Cautelar Inominada,152
+321,Thu,Conflito de Competência,8532
+322,Thu,Conflito de Jurisdição,1939
+323,Thu,Correição Parcial,2761
+324,Thu,Crime Responsabilidade Funcionário Publico,1
+325,Thu,Crimes Ambientais,7
+326,Thu,Crimes contra a honra,15
+327,Thu,Cumprimento de Sentença,7
+328,Thu,Desaforamento,84
+329,Thu,Embargos,1
+330,Thu,Embargos à Execução,10
+331,Thu,Embargos de Declaração,312724
+332,Thu,Embargos de Nulidade,1
+333,Thu,Embargos de Terceiros,1
+334,Thu,Embargos Infringentes,93
+335,Thu,Embargos Infringentes e de Nulidade,317
+336,Thu,Exceção da Verdade,9
+337,Thu,Exceção de Impedimento,9
+338,Thu,Exceção de Incompetência,9
+339,Thu,Exceção de Suspeição,460
+340,Thu,Exceção Suspeição Impedimento,6
+341,Thu,Habeas Corpus,72428
+342,Thu,Habeas Data,5
+343,Thu,Habilitação,4
+344,Thu,Impugnação,1
+345,Thu,Impugnação à Assistência Judiciária,21
+346,Thu,Impugnação ao Valor da Causa,24
+347,Thu,Incidente de Assunção de Competência,1
+348,Thu,Incidente de Falsidade,2
+349,Thu,Incidente de Inconstitucionalidade,9
+350,Thu,Incidente de Resolucao de Demandas Repetitiva,3
+351,Thu,Incidente de Uniformizacao Jurisprudencia,8
+352,Thu,Inquérito Policial,48
+353,Thu,Interpelação Judicial,1
+354,Thu,Intervenção em Município,2
+355,Thu,Intervenção Federal no Estado,2
+356,Thu,Investigação Contra Magistrado,1
+357,Thu,Liquidação Provisória por Artigos,2
+358,Thu,Mandado de Injunção,231
+359,Thu,Mandado de Segurança,5484
+360,Thu,Mandado de Segurança Coletivo,2
+361,Thu,Mandado de Segurança Crime,2
+362,Thu,Medida Cautelar,235
+363,Thu,Medida Cautelar Inominada,161
+364,Thu,Notícia Crime,5
+365,Thu,Oposição,1
+366,Thu,Outros Cíveis,20
+367,Thu,Outros Feitos,128
+368,Thu,Outros Incidentes,10
+369,Thu,Pedido de Assistência Judiciária Gratuita,5
+370,Thu,Petição,206
+371,Thu,Prefeito,59
+372,Thu,Procedimento Investigatório do MP,5
+373,Thu,Processo Crime,737
+374,Thu,Processo de Execução,3
+375,Thu,Queixa,52
+376,Thu,Reabilitação,6
+377,Thu,Reclamação,88
+378,Thu,Reclamação Regimental,3
+379,Thu,Recurso Cível,179579
+380,Thu,Recurso Crime,193
+381,Thu,Recurso de Agravo,1
+382,Thu,Recurso de Ofício,374
+383,Thu,Recurso em Sentido Estrito,16772
+384,Thu,Recurso Especial,11198
+385,Thu,Recurso Especial e ou Extraordinário,3953
+386,Thu,Recurso Extraordinário,5158
+387,Thu,Recurso Oficioso em Sentido Estrito,30
+388,Thu,Reexame Necessário,9878
+389,Thu,Representação,1
+390,Thu,Representação Criminal,72
+391,Thu,Restauração de Autos,49
+392,Thu,Revisão Criminal,217
+393,Thu,Suspenção de Liminar ou Antecipação de Tutela,12
+394,Thu,Suspensão de Liminar ou Antecipação de Tutela,1
+395,Thu,Termo Circunstanciado,71
+396,Thu,Tutela Antecipada Antecedente,3
+397,Thu,Tutela Provisoria,3
+398,Thu,Uniformização de Jurisprudência,7
+399,Fri,Ação Civil Improbidade Administrativa,2
+400,Fri,Ação Civil Pública,1
+401,Fri,Ação Direta de Inconstitucionalidade,21
+402,Fri,Ação Penal,5
+403,Fri,Ação Rescisória,3245
+404,Fri,Agravo,3841
+405,Fri,Agravo de Instrumento,174758
+406,Fri,Agravo em Execução,46
+407,Fri,Agravo em Rec,1
+408,Fri,Agravo Embargos Infringentes,283
+409,Fri,Agravo Inominado,4
+410,Fri,Agravo Interno,115
+411,Fri,Agravo Regimental,2406
+412,Fri,Apelação Cível,71095
+413,Fri,Apelação Crime,2646
+414,Fri,Apelação e Reexame Necessário,6767
+415,Fri,Carta Testemunhável,6
+416,Fri,Cautelar Inominada,72
+417,Fri,Conflito de Competência,3181
+418,Fri,Conflito de Jurisdição,98
+419,Fri,Correição Parcial,269
+420,Fri,Crimes contra a honra,2
+421,Fri,Cumprimento de Sentença,4
+422,Fri,Desaforamento,3
+423,Fri,Embargos de Declaração,23168
+424,Fri,Embargos de Nulidade,4
+425,Fri,Embargos de Terceiros,1
+426,Fri,Embargos Infringentes,22443
+427,Fri,Embargos Infringentes e de Nulidade,11782
+428,Fri,Exceção de Impedimento,2
+429,Fri,Exceção de Incompetência,2
+430,Fri,Exceção de Suspeição,77
+431,Fri,Habeas Corpus,3531
+432,Fri,Habeas Data,23
+433,Fri,Habilitação,1
+434,Fri,Impugnação à Assistência Judiciária,51
+435,Fri,Impugnação ao Cumprimento de Sentença,1
+436,Fri,Impugnação ao Valor da Causa,134
+437,Fri,Incidente de Assunção de Competência,1
+438,Fri,Incidente de Falsidade,2
+439,Fri,Incidente de Inconstitucionalidade,9
+440,Fri,Incidente de Prevenção ou Composição de Divergência,1
+441,Fri,Incidente de Resolucao de Demandas Repetitiva,17
+442,Fri,Incidente de Uniformizacao Jurisprudencia,19
+443,Fri,Inquérito Policial,5
+444,Fri,Interpelação,1
+445,Fri,Intervenção no Estado,2
+446,Fri,Investigação Contra Magistrado,4
+447,Fri,Mandado de Injunção,252
+448,Fri,Mandado de Segurança,6021
+449,Fri,Mandado de Segurança Coletivo,7
+450,Fri,Mandado de Segurança Crime,13
+451,Fri,Medida Cautelar,47
+452,Fri,Medida Cautelar Inominada,66
+453,Fri,Notícia Crime,1
+454,Fri,Notificação Para Explicações,1
+455,Fri,Outros Feitos,26
+456,Fri,Outros Incidentes,5
+457,Fri,Pedido de Assistência Judiciária Gratuita,1
+458,Fri,Petição,94
+459,Fri,Prefeito,10
+460,Fri,Procedimento Investigatório do MP,1
+461,Fri,Processo Crime,4
+462,Fri,Reclamação,71
+463,Fri,Reclamação Regimental,2
+464,Fri,Recurso Cível,39188
+465,Fri,Recurso Crime,197
+466,Fri,Recurso de Ofício,14
+467,Fri,Recurso em Sentido Estrito,256
+468,Fri,Recurso Especial,11786
+469,Fri,Recurso Especial e ou Extraordinário,2330
+470,Fri,Recurso Extraordinário,4386
+471,Fri,Recurso Oficioso em Sentido Estrito,1
+472,Fri,Reexame Necessário,4012
+473,Fri,Representação,2
+474,Fri,Representação Criminal,31
+475,Fri,Restauração de Autos,19
+476,Fri,Revisão Criminal,4947
+477,Fri,Suspenção de Liminar ou Antecipação de Tutela,22
+478,Fri,Suspensão de Execução de Sentença,1
+479,Fri,Suspensão de Liminar ou Antecipação de Tutela,1
+480,Fri,Termo Circunstanciado,5
+481,Fri,Tutela Antecipada Antecedente,1
+482,Fri,Tutela Cautelar Antecedente,2
+483,Fri,Tutela Provisoria,1
+484,Fri,Uniformização de Jurisprudência,48
+485,Sat,Ação Rescisória,10
+486,Sat,Agravo,158
+487,Sat,Agravo de Instrumento,2936
+488,Sat,Agravo em Execução,1
+489,Sat,Agravo Interno,2
+490,Sat,Agravo Regimental,3
+491,Sat,Apelação Cível,2333
+492,Sat,Apelação Crime,20
+493,Sat,Apelação e Reexame Necessário,322
+494,Sat,Conflito de Competência,54
+495,Sat,Conflito de Jurisdição,1
+496,Sat,Correição Parcial,9
+497,Sat,Embargos de Declaração,258
+498,Sat,Embargos Infringentes,1
+499,Sat,Exceção de Impedimento,1
+500,Sat,Exceção de Suspeição,3
+501,Sat,Habeas Corpus,70
+502,Sat,Mandado de Injunção,2
+503,Sat,Mandado de Segurança,20
+504,Sat,Reclamação,3
+505,Sat,Recurso Cível,39
+506,Sat,Recurso em Sentido Estrito,4
+507,Sat,Recurso Especial,595
+508,Sat,Recurso Especial e ou Extraordinário,146
+509,Sat,Recurso Extraordinário,417
+510,Sat,Reexame Necessário,119
+511,Sat,Representação Criminal,1
+512,Sat,Revisão Criminal,8
